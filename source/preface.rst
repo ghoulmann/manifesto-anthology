@@ -521,8 +521,7 @@ among
 these
 hackers).
 
-The canonical narrative identifying MIT as hackings’ first homeland — a place where the hacker ethic was born — is complicated when we account for other traditions such as phreaking,
-which existed independently of university-based hacker communities, and shaped a subversive tradition that flourished in the 1980s and 1990s, only to change with the rise of the security industry and new laws criminalizing computer break-ins. 
+The canonical narrative identifying MIT as hackings’ first homeland — a place where the hacker ethic was born — is complicated when we account for other traditions such as phreaking, which existed independently of university-based hacker communities, and shaped a subversive tradition that flourished in the 1980s and 1990s, only to change with the rise of the security industry and new laws criminalizing computer break-ins. 
 
 Instead of
 locating a
@@ -1065,11 +1064,11 @@ Works Cited
 
 * Coleman, E. Gabriella. 2010. *The Hacker Conference: A Ritual Condensation and Celebration of a Lifeworld*. Anthropological Quarterly. 83(1):47-72 
 
-* 2012a Our Weirdness is Free: The logic of Anonymous: Online Army, Agent of Chaos, and Seeker of Justice. Triple Canopy http://canopycanopycanopy.com/15/our_weirdness_is_free
+* 2012a "Our Weirdness is Free: The logic of Anonymous: Online Army, Agent of Chaos, and Seeker of Justice." Triple Canopy http://canopycanopycanopy.com/15/our_weirdness_is_free
 
-* 2012b "Phreaks, Hackers, and Trolls and the Politics of Transgression and Spectacle." In *The Social Media Reader. Michael Mandiberg, ed. New York: NYU Press
+* 2012b "Phreaks, Hackers, and Trolls and the Politics of Transgression and Spectacle." In *The Social Media Reader*. Michael Mandiberg, ed. New York: NYU Press
 
-* 2012c Coding Freedom: The Ethics and Aesthetics of Hacking. Princeton: Princeton University Press. 
+* 2012c *Coding Freedom: The Ethics and Aesthetics of Hacking*. Princeton: Princeton University Press. 
 
 * Coleman, Gabriella and Golub Alex 2008 "Hacker Practice: Moral Genres and the Cultural Articulation of Liberalism.” Anthropological Theory, Vol. 8, No. 3, 255-277.
 
@@ -1077,13 +1076,13 @@ Works Cited
 
 * Henderson, Scott 2007 The Dark Visitor: Inside the World of Chinese Hackers. Lulu.com 
 
-* Himanen,Pekka 2001 The Hacker Ethic and the Spirit of the Information Age. New York: Random House.
+* Himanen,Pekka 2001 *The Hacker Ethic and the Spirit of the Information Age*. New York: Random House.
 
-* Jordan, Tim 2008 Hacking: Digital Media and Technological Determinism. Cambridge: Polity Press.
+* Jordan, Tim 2008 *Hacking: Digital Media and Technological Determinism*. Cambridge: Polity Press.
 
 * Jordan, Tim and Paul Taylor 2004 Hacktivism and Cyberwars: Rebels with a Cause? London: Routledge.
 
-* Juris, Jeff 2008 Networking Futures. Durham: Duke University Press. 
+* Juris, Jeff 2008 *Networking Futures*. Durham: Duke University Press. 
 
 * Kelty, Chris M. 2008 Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press.
 
@@ -1097,7 +1096,7 @@ Works Cited
 
 * Rosenbaum, Ron 1971 Secrets of the Little Blue Box. Esquire Magazine. http://www.webcrunchers.com/crunch/stories/esq-art.html
 
-* Scott, Jason 2005 BBS: The Documentary. http://www.bbsdocumentary.com/
+* Scott, Jason 2005 *BBS: The Documentary*. http://www.bbsdocumentary.com/
 
 * Söderberg, Johan 2008 Hacking Capitalism: The Free and Open Source Software Movement. London: Routledge.
 
