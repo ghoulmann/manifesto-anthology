@@ -1,0 +1,113 @@
+===============================================
+1995: Manifesto for Bad Subjects in Cyberspace
+===============================================
+
+Preface
+========
+
+Subject
+----------
+
+Digital Diaspora, Digital Community
+
+Description
+--------------
+
+The Bad Subjects Production Team, authors of the Manifesto for Bad Subjects in Cyberspace, are primariy concerned with communal production and relations in cyberspace. Reminding the reader that cyberspace is malleable and unpredictable, the Bad Subjects Production Team desire to create a digital space that opposes both liberal communal institutions and the exploitative forces of capital.
+
+Creator
+---------
+
+Bad Subjects Production Team
+
+Source
+----------
+
+http://bad.eserver.org/issues/1995/18/manifesto.html
+
+Publisher
+----------
+
+http://bad.eserver.org/
+
+Date
+-------
+
+January 1995
+
+Rights
+---------
+
+Copyright © by Bad Subjects 1995. All rights reserved.
+
+Body
+=========
+
+While communities in cyberspace might have radical potential, it is important to keep in mind that such potential is not inherent to the medium itself. Cyberspace is not itself a community; many types of communities exist on computer networks, most of which are nothing more than an extension of the kinds of routine interactions we expect to encounter in capitalism.
+
+
+
+Introduction
+---------------
+
+In September of 1993, the Bad Subjects Collective published 'A Manifesto for Bad Subjects,' in which we offered a critique of existing leftist politics. We argued that the Left today is characterized by cynicism, an investment in multiculturalism which emphasizes separatism, and a desire to compensate for its ineffectiveness by celebrating victimization and marginalization. At that time, Bad Subjects was just beginning to establish a presence on the Internet by organizing an e-mail list and setting up a gopher site where an electronic version of our publication is available. Through these avenues, our manifesto reached an audience larger than we had ever imagined possible. We received responses from as far away as Russia and New Zealand; the manifesto was even taught in classes across the United States. It has now become clear that Bad Subjects identity and popularity are largely a result of our on-line presence. While hard copies of the publication continue to be circulated, the vast majority of our readers come to us through the Internet.
+
+In the manifesto, we recommended that leftist politics be more relevant to our everyday lives; in this way, we hoped to suggest a new relationship between personal and political commitments. Because our everyday life as bad subjects takes place largely on the Net, we want to offer an example of how to put this recommendation into practice. Whereas the Internet was once just a way for us to disseminate our articles, it has now become an important social context for the exchange and development of what on-line users have dubbed badsubjectian ideas. In short, cyberspace has become both an organizing tool and meeting place for bad subjects. It has also come to resemble — in some ways — the kind of Utopian community we imagined in our original manifesto. What follows represents our collective effort to explore the radical potential of cyberspace, while acknowledging its limitations.
+
+Cyberspace and Global Capital
+-------------------------------
+
+Cyberspace is the technological fetish of the moment, just as the telephone, automobile, radio, and television once were. In this sense, cyberspace can be said to represent the next logical step in the expansion of the mass media. Throughout the 20th Century, leftists from the Frankfurt School to contemporary critics such as Douglas Kellner and Todd Gitlin have been debating whether the mass media are a progressive or reactionary force. There has always been a danger that the mass media will only function as propaganda for the ruling classes. But at the same time, independent uses of mass media by radical groups have been cited as examples of the subversive potential of cheap technologies which can help organize and inform the masses.
+
+Popular histories of the Internet generally underscore its chaotic and seemingly unreal structure. An Esquire magazine guide to getting on-line (December, 1994) by Phil Patton is typical, describing a dizzying landscape...whose ruling philosophy is complexity theory — the happy belief that this chaos will all sort itself out somehow, someday, and meanwhile, hey, go with the flow. ARPANET, the seed from which the Internet grew, was one of the US Department of Defenses innumerable Cold-War projects. Pattons history of the Internet parallels that of most other popular accounts in noting that its military origins did not prevent it from being appropriated by civilians. As the net became a means of communication, Patton writes, on its margins, just as beside the railroad or blacktop, a new culture began to sprout. Despite its historical connection to American nationalist politics, the Internet is perceived to be a place where anarchy reigns: state-planning created the Internet, but has now lost control over it.
+
+Discussions of the Internets radical potential have tended to focus on this anarchic quality. Commentators have celebrated the ways in which the Internet has frustrated attempts by centralized powers to steer its development in a particular direction. Understandably, leftists wary of state power have agreed with them. But celebrating the chaos of the Internet comes dangerously close to celebrating the so-called free market of capitalism. The free market is supposed to be a space of productive chaos inimical to regulation. Ideally it functions all by itself without any political or economic steering. The free market promotes individualism; indeed, it is thought to function best when it encompasses a great diversity of tastes and needs. Moreover, the free market is a fiction which disguises the web of unequal social relationships constituting it.
+
+Substituting the word cyberspace for free market in these descriptions allows us to see that what we value about cyberspace resembles what the Left has criticized about capitalism. Like global capitalism, computer networks bring people together in alienation rather than solidarity. People who interact on-line are generally not privy to the way those networks are produced by actual people existing within a concrete economic order. Cyberspace is a commodity in the process of being produced by programmers, paid system operators, and a range of volunteers who parcel out memory to users, generate more complicated interactive data spaces, and maintain order on newsgroups, mailing lists, and FTP sites. The Net is not antithetical to the free market, to consumerism, or to alienated labor. After all, science fiction author William Gibson invented the term cyberspace to describe virtual reality in a future dominated by multinational corporations and wealthy elites who prey on a vast, international underclass.
+
+While communities in cyberspace might have radical potential, it is important to keep in mind that such potential is not inherent to the medium itself. Cyberspace is not itself a community; many types of communities exist on computer networks, most of which are nothing more than an extension of the kinds of routine interactions we expect to encounter in capitalism. On Usenet and the World Wide Web, for example, we encounter thinner and thinner boundaries between personal expression, politics, and advertising. There are newsgroups devoted simply to job listings. On World Wide Web, you might click on a word in the middle of an article about progressive politics in Slovenia and find yourself linked to an infoblurb promoting tourism in Eastern Europe. On-line galleries exist in a number of locations for the purposes of selling art, music, or text. Thus, the Internet reflects the economic and social conditions that underpin it.
+
+In our excitement over the Internets potential, we must be wary of buying into the ideology of the free market it mirrors. If we value the Internet because it is chaotic, decentered, and promotes individuality for its own sake, then it is only a matter of time before we start to value the free market for the same reasons.
+
+Democracy Is Not Utopia
+------------------------
+
+Promises of a good society offered by cybernetic communication are familiar to us by now. They come out of what we might call the democratic Utopianism espoused by everyone from techno-anarchists like the staff of Mondo 2000 to self-styled conservative futurist Newt Gingrich. Like the fiction of a free market, on-line democratic Utopianism is heavily informed by a belief that unhindered personal expression is the measure of our social freedom.
+
+In on-line democratic Utopianism, cyberspace community ends up emulating political communities in physical reality. Hence, the drawbacks of actually existing democracy as we know it in the United States are prevalent in computer networks: the middle- and upper-classes constitute the largest and most vocal group, promoting their own interests without having to pay attention to the needs and desires of the underclasses and disenfranchised groups. Much has been made, for example, of the way politicians, local governments, and special interest groups can have town hall meetings in virtual reality and hear from the people. But on the Net, after all, one pays for the privilege of participating in any town hall meeting. Moreover, cyberspace runs the risk of becoming individualist to the point of parody, where personal expression is overvalued so much that it is impossible to assert anything unless it begins with the cyberslang disclaimer IMO [in my opinion].
+
+An overemphasis on the personal has led to many of the problems leftists face today when they try to organize themselves as a mass community once more. Personal or identity politics have led to distrust of all groups which attempt to take a strong, unified stance which might appeal to mainstream society. Multiculturalism has helped Americans to modify their interpersonal relations — making it rude and often illegal to be racist or sexist — but it has also undermined our ability to view the political as political. Lacking a clear vision of politics which go beyond the personal, the Left shies away from any program or set of goals which assert that large numbers of people can change society for the better. Whose society are you talking about? the multiculturalist might ask. Hearing that this society is one we all share, the multiculturalist disgustedly replies, No such society exists, and if it did, it would be oppressive. Certainly this is the case if all politics are merely personal, since no two people can share the same life. But politics go beyond individual experience.
+
+To bring about a more just society, the left must commit to a politics which validate personal identity while at the same time transcending it. For this reason, the potential for political community in cyberspace seems particularly salient. On a computer network, identity as we know it in our daily lives is altered. Because we cannot instantly see each other as races, genders, ages, etc., in a computer environment, peoples impulse to judge one another as such is hindered. We could never argue that these judgments do not occur, and certainly many people on-line make sure to identify themselves somewhere on the multiculturalist spectrum. Nevertheless, it is appropriate to assert that radical communities on-line would not fall out along the same lines as they might in physical reality.
+
+Computer networks are, as many commentators have noted, global, or, at the very least, international. Indeed, since going on-line, the Bad Subjects mailing list and readers have been made up of people from around the world. A radical community in cyberspace would, therefore, be constituted by a population united by their desire to affect more than simply their cultural group or national region. Insofar as people can choose how, or if, to represent their (multicultural) identities on-line, cyberspace may provide the ultimate forum for performative identities. That is, a woman on-line might perform the identity of a man, and vice versa. In some ways, we might be tempted to celebrate this, arguing that such a performance undermines the allegedly fixed nature of race, gender, ethnicity, etc.. Such on-line performances take us, perhaps, a small step beyond multiculturalism as we now know it.
+
+What remains fixed, however, are the sites from which on-line access is made available. E-mail address suffixes such as org [organization], gov [government] and edu [education] locate the user within a system of commercial, state, and educational networks. Outside the United States, users are also identified by a country code in their suffix. Although anonymous servers exist which can erase users addresses, these are not entirely foolproof, and their use is limited. This suggests that while multicultural identities can be temporarily transcended (or reinscribed) in cyberspace, work — or class — identities cannot. Cyberspace identities may suggest a post-multicultural and post-national world, but they do not entirely escape their social context.
+
+The Use of Liberal 'Safe Spaces'
+---------------------------------
+
+Built into the structure of any radical politics is an injunction to form communities. We know for certain that social change is dependent upon teamwork — and the kind of teams we form as radicals can, ideally, become the blueprints for what a better society might look like. Unfortunately, leftist and other radical communities are notorious for their instability and hypocrisy. In the late 60s, the New Left and civil rights movements spawned the womens movement precisely because, to women and their allies, sexist behavior in these movements seemed so clearly in conflict with their stated goals of equality and social justice. Subsequently, the womens movement and other civil rights groups of the 70s, 80s, and 90s have asserted that the personal is political in order to encourage continuity between political convictions and everyday actions.
+
+The limitations of a multiculturalist position are, in part, the impetus behind our ongoing commitment to Bad Subjects. The project of Bad Subjects has always been to provide a forum for the discussion of leftist politics and, out of that, to build a political community and promote social change. While the hard-copy publication offers a place for people to articulate a substantial and coherent position on an aspect of contemporary culture, the on-line mailing list is a space where people can discuss, more informally, 'political education for everyday life.' On the list, people debate the possible ways in which the Left might be more effective at both understanding and transforming contemporary society. It resembles, therefore, a kind of 'safe space' or 'support group' that allows for the free exchange of ideas and positions. While only a few list members may participate at any given time, the messages are 'bounced' to the 200 or so people who currently subscribe to the list. Even when people do not agree with each other, one result is the on-going production of a 'badsubjectian' position on whatever happens to be the topic at hand. The mailing list, therefore, collectively articulates a position (albeit sometimes a provisional one) on a topic. By participating, list members are acting in ways that suggest the kind of political community the Bad Subjects collective has always tried to work towards.
+
+This kind of free exchange can have its limitations, however. As with any 'safe space' there is a need to be aware of the extent to which containing political discussions within places like the mailing list can give us a false sense of our power to transform society. One problem is that the free exchange of ideas can quickly turn into a debate where every position is considered equally valid. While most people on the list are already committed to leftist politics, discussions occasionally become mired in the kind of individualism mentioned earlier, precluding the possibility of criticism or the articulation of a more coherent, and, ultimately, useful position. While a degree of 'liberal pluralism' — where everyone's opinion is equally valued and respected — is necessary, and the safe space of the list allows for, and, indeed, promotes, such a dynamic, there is a time where a stand needs to be taken in order for any substantial change to be possible.
+
+While discussions on the Bad Subjects mailing list may suggest a kind of collective politics, there is need to distinguish between the feeling of political community that a list can generate, and the ability to make productive use of that community to enact material changes in the world. As with any support group, there is, moreover, a need to leave the group behind and use the techniques and knowledge gained from the list in our lives outside of cyberspace. Indeed, there are many social and political changes that the list makes possible. The exchange of ideas can, and often does, promote a shift in consciousness that contains within itself real material effects. Many people on the list are students, professors, or writers, who use ideas and resources from the list, for example, to change the ways in which they teach and learn in their respective professions.
+
+We need to create a balance between the liberal pluralism found in places like the mailing list and the kind of radical politics that can effectively transform society. There is nothing inherently radical, after all, about either multiculturalism or liberal pluralism. Indeed, both frequently reinforce — by creating 'alternative' or 'niche' markets — the structures of capitalism that we aim to dismantle. While it is, of course, important to be conscious of many social and political perspectives, we must also self-consciously maintain a position that opposes, rather than validates, the structures and ideology of capitalism.
+
+The kinds of interactive discussions taking place on the mailing list break down the boundary between producers and consumers of ideas and actions. Our desire is not to merely reach a mass audience whom we can educate, in other words, but to encourage people to act in the world to effect real social change. We work to make possible a world in which on-line members are not merely passive recipients of 'badsubjectian' ideas, but active agents helping us to articulate such a position and enact it in the world at large. Self-consciousness about the political potential of cyberspace is, thus, not an end in itself. We must leave the Net behind and use it only as an impetus for social change in the 'real' material world.
+
+A Radical Program for Cyberspace
+---------------------------------
+
+Cyberspace community is just another form of community, with all its potential pitfalls and triumphs. The form that a community takes is ultimately not the point — but what you do with that community is. And this is why we believe that on-line and real life communities are not in opposition to one another, or in a hierarchical relationship. These communities exist in relation to each other, and are in the process of making each other quite different as a result of their relationship. Real communities may have invented cybercommunities, but at this point there are real communities and relationships which have been forged in cyberspace. Hence, cyberspace and real society are in a dialectical relationship — they mutually create and influence each other.
+
+The materialist dialectic of Marxist tradition is often interpreted to mean a set of relationships in which materiality is the most important factor. This, as many theorists have pointed out, depends on how you define materiality. As much as cyberspace would seem to be the realm of ideas, hence non-material, one needs to remember that there is a materiality to cyberspace. If there were no such materiality, we could not assert that some people have access to it while others do not. Nor could we compare the structure of cyberspace to the structure of capitalism, which is a notoriously materialistic system. Like all raw materials, cyberspace is unequally distributed throughout the world. Hence cyberspace has materiality and an ideology — there are actual ports, machines, and RAM; and there are beliefs we have about it and ways we behave in it. Cybercommunity, like real life community, is a combination of raw materials and human conviviality.
+
+It is therefore reasonable to assume that radical politics in cyberspace do have a relationship to practices in non-virtual reality. A radical political program in cyberspace would recommend actions intended to equalize access to its raw materials and information. It would promote localized and global participation in the maintenance of cyberspace society, or its structure and laws. Finally, it would open up avenues by which anti-capitalist thought might be disseminated and national boundaries eroded. All these actions would have as their intended goal the construction of a future, Utopian society in which human identities are global and people are united by a commitment to justice, shared labor, socialized property, and the peaceful resolution of conflicts.
+
+For the present, cyberspace is in its infancy. In critical discussions, often we speak of potential ways cyberspace might develop as a technology and as a social force. To theorize cyberspace is also to imaginatively project ourselves as a society into the future. Cyberspace is more than just a system of computers; it is also a network of human relationships in the process of emerging. What is Utopian about cyberspace at this point in history is that its structure is obviously not entirely fixed. Perhaps, in deciding how we wish to organize the future of cyberspace, we can teach ourselves that, indeed, the future of human society is not fixed either. We can always choose to be different, and more importantly, we can always choose to be better. Like cyberspace itself, this manifesto is an invitation to remember that, as individuals and as a society, this choice is always ours.
+
+*Copyright © by Bad Subjects 1995. All rights reserved.*
