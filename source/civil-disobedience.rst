@@ -119,4 +119,4 @@ The authority of government, even such as I am willing to submit to - for I will
 
 The End
 
-Note: Henry David Thoreau (1817-62), American writer and naturalist. 1846, one year after he had moved into his famous cabin on Ralph Waldo Emerson's land at Walden Pond, Massachusetts, Thoreau refused to pay his tax, as a protest against slavery in America. He went to jail (although his aunt payed the tax for him, so he was released the next morning). Thoreau then wrote "Resistance to Civil Government," which was published 1849 and later became known as "Civil Disobedience." /KET 
+.. Note:: Henry David Thoreau (1817-62), American writer and naturalist. 1846, one year after he had moved into his famous cabin on Ralph Waldo Emerson's land at Walden Pond, Massachusetts, Thoreau refused to pay his tax, as a protest against slavery in America. He went to jail (although his aunt payed the tax for him, so he was released the next morning). Thoreau then wrote "Resistance to Civil Government," which was published 1849 and later became known as "Civil Disobedience."
