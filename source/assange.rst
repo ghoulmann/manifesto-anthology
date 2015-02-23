@@ -1,5 +1,5 @@
 ===============================================
-2006: The Wikileaks Manifesto (Julian Assange)
+The Wikileaks Manifesto (Julian Assange, 2006)
 ===============================================
 
 *Creator: Julian Assange is the editor in chief of Wikileaks, a “whistleblower website that publishes news leaks”. (Wikipedia)*

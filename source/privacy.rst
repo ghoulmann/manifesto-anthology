@@ -1,5 +1,5 @@
 ===========================================
-2014: A Privacy Engineer’s Manifesto [1]_
+A Privacy Engineer’s Manifesto [1]_ (2014)
 ===========================================
 
 *....These principles are an attempt to illuminate a belief system in which the seemingly opposing motives of creating corporate profit and respecting individual privacy can live in harmony. Here you may find a meeting grounds that enables both your organization and your customers to profit—each in their own ways.*

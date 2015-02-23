@@ -1,5 +1,5 @@
 =======================================================================================
-2013: The Open Source Everything Manifesto (Robert David Steele)
+The Open Source Everything Manifesto (Robert David Steele, 2013)
 =======================================================================================
 
 *The following is excerpted from The Open-Source Everything Manifesto:

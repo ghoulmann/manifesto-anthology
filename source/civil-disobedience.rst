@@ -1,5 +1,5 @@
 ==============================================
-1849: Civil Disobedience (Henry David Thoreau)
+Civil Disobedience (Henry David Thoreau, 1849)
 ==============================================
 
 

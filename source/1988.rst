@@ -1,5 +1,5 @@
 ======================================================
-Mid 1988: Crypto Anarchist Manifesto (Timothy C. May)
+Crypto Anarchist Manifesto (Timothy C. May, 1988)
 ======================================================
 
 A specter is haunting the modern world, the specter of crypto anarchy.
@@ -12,6 +12,6 @@ The State will of course try to slow or halt the spread of this technology, citi
 
 Just as the technology of printing altered and reduced the power of medieval guilds and the social power structure, so too will cryptologic methods fundamentally alter the nature of corporations and of government interference in economic transactions. Combined with emerging information markets, crypto anarchy will create a liquid market for any and all material which can be put into words and pictures. And just as a seemingly minor invention like barbed wire made possible the fencing-off of vast ranches and farms, thus altering forever the concepts of land and property rights in the frontier West, so too will the seemingly minor discovery out of an arcane branch of mathematics come to be the wire clippers which dismantle the barbed wire around intellectual property.
 
-Arise, you have nothing to lose but your barbed wire fences !
+Arise, you have nothing to lose but your barbed wire fences!
 
-.. index:: cryptography, intellectual property, Cryptonet, transactions, the State, Timothy C. May, Marx, national security, criminal, crypto anarchy
+.. index:: cryptography, intellectual property, Cryptonet, transactions, the State, Timothy C. May, Marx, national security, criminal, crypto anarchy, anarchism, cyptology, cryptography, economy, economics, tax, revolution

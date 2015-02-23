@@ -1,5 +1,5 @@
 ==============================================
-1993: A Cypherpunk's Manifesto (Eric Hughes)
+A Cypherpunk's Manifesto (Eric Hughes, 1993)
 ==============================================
 
 *March 9, 1993*
@@ -32,4 +32,4 @@ Onward.
 
 *Eric Hughes* <hughes@soda.berkeley.edu>
 
-.. index:: cypherpunk, cryptography, networks, anonymity, anonymous, transactions, Eric Hughes, privacy, secrets, open society
+.. index:: cypherpunk, cryptography, networks, anonymity, anonymous, transactions, Eric Hughes, privacy, secrets, open society, encryption, privacy

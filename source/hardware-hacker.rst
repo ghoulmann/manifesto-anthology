@@ -1,5 +1,5 @@
 ===================================================
-2010: The Hardware Hacker Manifesto (Cody Brocious)
+The Hardware Hacker Manifesto (Cody Brocious, 2010)
 ===================================================
 
 *The Hardware Hacker Manifesto by Cody Brocious is licensed under a Creative Commons Attribution 3.0 Unported License.*

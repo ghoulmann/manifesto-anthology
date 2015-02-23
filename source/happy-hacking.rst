@@ -1,12 +1,13 @@
-=================================
-Happy Hacking 2015 Manifesto
-=================================
+===================================
+Happy Hacking 2015 Manifesto 2015)
+===================================
 
 Preface
 =========
 
 Subject
 -------
+
 Hacking, Anonymous
 
 Description

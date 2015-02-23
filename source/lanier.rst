@@ -1,5 +1,5 @@
 ===========================================
-2011: ONE HALF A MANIFESTO (Jaron Lanier)
+ONE HALF A MANIFESTO (Jaron Lanier, 2011)
 ===========================================
 
 Introduction

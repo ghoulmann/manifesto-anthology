@@ -1,5 +1,5 @@
 ==========================================
-2015: New Clues (Searls and Weinberger)
+New Clues (Searls and Weinberger, 2015)
 ==========================================
 
 Preface
