@@ -12,7 +12,7 @@ Understanding "Hackers"
 =======================
 
 
-*Forthcoming, The Johns Hopkins Encyclopedia of Digital Textuality (E. Gabriella Coleman)*
+*Forthcoming, The Johns Hopkins Encyclopedia of Digital Textuality (E. Gabriella Coleman)* [1]_
 
 Introduction
 ------------
@@ -1056,6 +1056,8 @@ Söderberg
 2004) and
 its historical dynamism,
 it *is imperative to keep the variations of hacking at the forefront of our inquiries.*
+
+.. [1] http://gabriellacoleman.org/wp-content/uploads/2013/04/Coleman-Hacker-John-Hopkins-2013-Final.pdf
 
 Works Cited
 -----------

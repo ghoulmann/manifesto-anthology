@@ -73,7 +73,7 @@ The above disputes ultimately turn on a combination of technical arguments about
 So I try to augment my positions with pragmatic considerations, and some of these will begin to appear in my thoughts on...
 
 Belief #2: **That people are no more than cybernetic patterns**
------------------------------------------------------------
+--------------------------------------------------------------------
 
 Every cybernetic totalist fantasy relies on artificial intelligence. It might not immediately be apparent why such fantasies are essential to those who have them. If computers are to become smart enough to design their own successors, initiating a process that will lead to God-like omniscience after a number of ever swifter passages from one generation of computers to the next, someone is going to have to write the software that gets the process going, and humans have given absolutely no evidence of being able to write such software. So the idea is that the computers will somehow become smart on their own and write their own software.
 
@@ -98,7 +98,7 @@ My argument can be taken as an attack against the belief in eventual computer se
 The AI belief system is a direct explanation for a lot of bad software in the world, such as the annoying features in Microsoft Word and PowerPoint that guess at what the user really wanted to type. Almost every person I have asked has hated these features, and I have never met an engineer at Microsoft who could successfully turn the features completely off on my computer (running Mac Office '98), even though that is supposed to be possible.
 
 Belief #3: **That subjective experience either doesn't exist, or is unimportant because it is some sort of ambient or peripheral effect**
----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 There is a new moral struggle taking shape over the question of when "souls" should be attributed to perceived patterns in the world.
 

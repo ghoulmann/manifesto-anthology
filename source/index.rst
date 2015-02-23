@@ -7,7 +7,7 @@ Manifestos for the Information Age: An Anthology
 ============================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    preface
    network-timeline
@@ -42,10 +42,9 @@ Manifestos for the Information Age: An Anthology
     
 
 
-References
+Resources
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
