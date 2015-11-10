@@ -7,7 +7,7 @@ The Underground Myth (Published in Phrack)
 =====================
 
 Volume 0x0c, Issue 0x41, Phile #0x0d of 0x0f::
-    
+
     |=-----------------------------------------------------------------------=|
     |=-----------------------=[ The Underground Myth ]=----------------------=|
     |=-----------------------------------------------------------------------=|
@@ -121,7 +121,7 @@ matters is that we have a thriving industry and...
 
 A hacker underground proclaimed to be dead.
 
- 
+
 Black Hat, Two Faces
 --------------------
 
@@ -206,7 +206,7 @@ parody of what it once was, a type of inside joke.
 
 There is no creativity, no sense of arcana anymore.
 
- 
+
 Criminals
 ---------
 

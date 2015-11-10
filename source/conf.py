@@ -176,10 +176,10 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Manifestos of the Digital Age: An Anthology"
+html_title = "Manifestos for the Information Age: An Anthology"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "Anthology"
+html_short_title = "Manifestos"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -262,7 +262,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'AnAnthologyofCyberManifestos.tex', u'Manifestos of the Information Age: An Anthology',
+  ('index', 'AnAnthologyofCyberManifestos.tex', u'Manifestos for an Information Age: An Anthology',
    u'Various Authors', 'manual'),
 ]
 
