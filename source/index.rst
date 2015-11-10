@@ -8,11 +8,12 @@ Manifestos for the Information Age: An Anthology
 
 .. toctree::
    :maxdepth: 1
-   
+
    preface
    network-timeline
    1986
    1988
+   1991-cyber
    1993
    1995
    1996
@@ -35,11 +36,12 @@ Manifestos for the Information Age: An Anthology
    cybercommunist
    civil-disobedience
    underground-myth
+   wark
    additional
-    
-    
-    
-    
+
+
+
+
 
 
 Resources
@@ -47,4 +49,3 @@ Resources
 
 * :ref:`genindex`
 * :ref:`search`
-
