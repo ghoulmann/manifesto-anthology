@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'An Anthology of Cyber Manifestos'
+project = u'Manifestos for the Information Age: An Anthology'
 copyright = u'2015, Various Authors'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -292,7 +292,7 @@ latex_logo = "_static/internet_earth.png"
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'ananthologyofcybermanifestos', u'An Anthology of Cyber Manifestos Documentation',
+    ('index', 'ananthologyofcybermanifestos', u'Manifestos for the Information Age: An Anthology',
      [u'Various Authors'], 1)
 ]
 
@@ -306,7 +306,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'AnAnthologyofCyberManifestos', u'An Anthology of Cyber Manifestos Documentation',
+  ('index', 'AnAnthologyofCyberManifestos', u'Manifestos for the Information Age: An Anthology',
    u'Various Authors', 'AnAnthologyofCyberManifestos', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -327,7 +327,7 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'An Anthology of Cyber Manifestos'
+epub_title = u'Manifestos for the Information Age: An Anthology'
 epub_author = u'Various Authors'
 epub_publisher = u'Various Authors'
 epub_copyright = u'2015, Various Authors'
