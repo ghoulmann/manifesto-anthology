@@ -13,7 +13,6 @@ Manifestos for the Information Age: An Anthology
    network-timeline
    1986
    1988
-   1991-cyber
    1993
    1995
    1996
