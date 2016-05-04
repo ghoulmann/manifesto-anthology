@@ -1,0 +1,205 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Coming to Terms}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Understanding Manifestos}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Understanding ``Hackers''}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Rethinking the Story of the Hacker Ethic, from Single-Origin to Multiple Origins}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The Politics of Naming}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Genres of Hacking}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Works Cited}{5}{subsection.1.2.5}
+\contentsline {chapter}{\numberline {2}Computer Networking Timeline}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Internet Adoption}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Internet Timeline}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}1969}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}1972}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}1973}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}1976}{10}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}1982}{10}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}1984}{10}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}1985}{11}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}1988}{11}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}1989}{11}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}1990}{11}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}1991}{11}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.2.12}1993}{11}{subsection.2.2.12}
+\contentsline {subsection}{\numberline {2.2.13}1994}{12}{subsection.2.2.13}
+\contentsline {subsection}{\numberline {2.2.14}1995}{12}{subsection.2.2.14}
+\contentsline {subsection}{\numberline {2.2.15}1996}{12}{subsection.2.2.15}
+\contentsline {subsection}{\numberline {2.2.16}1997}{12}{subsection.2.2.16}
+\contentsline {subsection}{\numberline {2.2.17}1998}{12}{subsection.2.2.17}
+\contentsline {subsection}{\numberline {2.2.18}1999}{12}{subsection.2.2.18}
+\contentsline {subsection}{\numberline {2.2.19}2000}{13}{subsection.2.2.19}
+\contentsline {subsection}{\numberline {2.2.20}2001}{13}{subsection.2.2.20}
+\contentsline {subsection}{\numberline {2.2.21}2002}{13}{subsection.2.2.21}
+\contentsline {subsection}{\numberline {2.2.22}2003}{13}{subsection.2.2.22}
+\contentsline {subsection}{\numberline {2.2.23}2004}{14}{subsection.2.2.23}
+\contentsline {subsection}{\numberline {2.2.24}2005}{14}{subsection.2.2.24}
+\contentsline {subsection}{\numberline {2.2.25}2006}{14}{subsection.2.2.25}
+\contentsline {subsection}{\numberline {2.2.26}2007}{14}{subsection.2.2.26}
+\contentsline {subsection}{\numberline {2.2.27}2008}{14}{subsection.2.2.27}
+\contentsline {subsection}{\numberline {2.2.28}2012}{15}{subsection.2.2.28}
+\contentsline {subsection}{\numberline {2.2.29}2014}{15}{subsection.2.2.29}
+\contentsline {chapter}{\numberline {3}The Hacker Manifesto (The Mentor, 1986)}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Preface}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Conscience of a Hacker}{17}{section.3.2}
+\contentsline {chapter}{\numberline {4}Crypto Anarchist Manifesto (Timothy C. May, 1988)}{19}{chapter.4}
+\contentsline {chapter}{\numberline {5}A Cypherpunk's Manifesto (Eric Hughes, 1993)}{21}{chapter.5}
+\contentsline {chapter}{\numberline {6}Manifesto for Bad Subjects in Cyberspace (1995)}{23}{chapter.6}
+\contentsline {section}{\numberline {6.1}Preface}{23}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Subject}{23}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Description}{23}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Creator}{23}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Source}{23}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Publisher}{23}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Date}{24}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Rights}{24}{subsection.6.1.7}
+\contentsline {section}{\numberline {6.2}Body}{24}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Introduction}{24}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Cyberspace and Global Capital}{25}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Democracy Is Not Utopia}{26}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}The Use of Liberal `Safe Spaces'}{27}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}A Radical Program for Cyberspace}{29}{subsection.6.2.5}
+\contentsline {chapter}{\numberline {7}A Declaration of the Independence of Cyberspace (John Perry Barlow, 1996)}{31}{chapter.7}
+\contentsline {chapter}{\numberline {8}A Cyberpunk Manifesto (Christian As. Kirtchev, 1997)}{33}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cyberpunk}{33}{section.8.1}
+\contentsline {section}{\numberline {8.2}Society}{34}{section.8.2}
+\contentsline {section}{\numberline {8.3}The System}{35}{section.8.3}
+\contentsline {section}{\numberline {8.4}The vision}{36}{section.8.4}
+\contentsline {section}{\numberline {8.5}Where are we ?}{36}{section.8.5}
+\contentsline {chapter}{\numberline {9}Hacktivismo Declaration (2001)}{39}{chapter.9}
+\contentsline {section}{\numberline {9.1}Press Release}{39}{section.9.1}
+\contentsline {section}{\numberline {9.2}The Hacktivismo Declaration}{40}{section.9.2}
+\contentsline {chapter}{\numberline {10}A Cyberpunk Manifesto v2.0 (Christian As. Kirtchev, 2003)}{43}{chapter.10}
+\contentsline {section}{\numberline {10.1}Cyberpunk}{43}{section.10.1}
+\contentsline {section}{\numberline {10.2}Society}{44}{section.10.2}
+\contentsline {section}{\numberline {10.3}The System}{44}{section.10.3}
+\contentsline {section}{\numberline {10.4}The Media}{44}{section.10.4}
+\contentsline {section}{\numberline {10.5}Where are we?}{45}{section.10.5}
+\contentsline {chapter}{\numberline {11}The Wikileaks Manifesto (Julian Assange, 2006)}{47}{chapter.11}
+\contentsline {section}{\numberline {11.1}Purpose}{47}{section.11.1}
+\contentsline {section}{\numberline {11.2}Introduction}{47}{section.11.2}
+\contentsline {section}{\numberline {11.3}Conspiracy as governance in authoritarian regimes}{47}{section.11.3}
+\contentsline {section}{\numberline {11.4}Terrorist conspiracies as connected graphs}{48}{section.11.4}
+\contentsline {section}{\numberline {11.5}Separating a conspiracy}{48}{section.11.5}
+\contentsline {section}{\numberline {11.6}Some conspirators dance closer than others}{49}{section.11.6}
+\contentsline {section}{\numberline {11.7}Conspiracies are cognitive devices. They are able to out think the same group of individuals acting alone}{49}{section.11.7}
+\contentsline {section}{\numberline {11.8}Decieving Conspiracies}{49}{section.11.8}
+\contentsline {section}{\numberline {11.9}What does a conspiracy compute? It computes the next action of the conspiracy}{49}{section.11.9}
+\contentsline {section}{\numberline {11.10}Can we find a value that describes the power of a conspiracy?}{50}{section.11.10}
+\contentsline {section}{\numberline {11.11}Total conspiratorial power}{50}{section.11.11}
+\contentsline {section}{\numberline {11.12}If total conspiratorial power is zero, there is no conspiracy}{50}{section.11.12}
+\contentsline {section}{\numberline {11.13}Separating weighted conspiracies}{50}{section.11.13}
+\contentsline {section}{\numberline {11.14}Throttling weighted conspiracies}{50}{section.11.14}
+\contentsline {section}{\numberline {11.15}Attacks on conspiratorial cognitive ability}{51}{section.11.15}
+\contentsline {section}{\numberline {11.16}Traditional vs. modern conspiracies}{51}{section.11.16}
+\contentsline {section}{\numberline {11.17}An authoritarian conspiracy that cannot think is powerless to preserve itself against the opponents it induces}{51}{section.11.17}
+\contentsline {chapter}{\numberline {12}A Cyberpunk Manifesto v3.0 (2007)}{53}{chapter.12}
+\contentsline {section}{\numberline {12.1}Introduction}{53}{section.12.1}
+\contentsline {section}{\numberline {12.2}Vision}{53}{section.12.2}
+\contentsline {section}{\numberline {12.3}Technology}{54}{section.12.3}
+\contentsline {section}{\numberline {12.4}History}{55}{section.12.4}
+\contentsline {section}{\numberline {12.5}Freedom}{55}{section.12.5}
+\contentsline {chapter}{\numberline {13}Guerilla Open Access Manifesto (Aaron Swartz, 2008)}{57}{chapter.13}
+\contentsline {chapter}{\numberline {14}A Biopunk Manifesto (Meredith L. Patterson, 2010)}{59}{chapter.14}
+\contentsline {chapter}{\numberline {15}The Hardware Hacker Manifesto (Cody Brocious, 2010)}{61}{chapter.15}
+\contentsline {section}{\numberline {15.1}Preface}{61}{section.15.1}
+\contentsline {section}{\numberline {15.2}The Hardware Hacker Manifesto}{61}{section.15.2}
+\contentsline {chapter}{\numberline {16}A Cyberpunk Manifesto (Transceiverfreq, 2011)}{63}{chapter.16}
+\contentsline {section}{\numberline {16.1}The Kanisza Triangle}{63}{section.16.1}
+\contentsline {section}{\numberline {16.2}READ}{63}{section.16.2}
+\contentsline {section}{\numberline {16.3}WE ASSERT:}{64}{section.16.3}
+\contentsline {section}{\numberline {16.4}WE:}{65}{section.16.4}
+\contentsline {section}{\numberline {16.5}ADVICE (\IeC {\O }):}{65}{section.16.5}
+\contentsline {chapter}{\numberline {17}ONE HALF A MANIFESTO (Jaron Lanier, 2011)}{67}{chapter.17}
+\contentsline {section}{\numberline {17.1}Introduction}{67}{section.17.1}
+\contentsline {section}{\numberline {17.2}One Half a Manifesto}{67}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}Cybernetic Totalist Belief \#1}{69}{subsection.17.2.1}
+\contentsline {subsection}{\numberline {17.2.2}Belief \#2: \textbf {That people are no more than cybernetic patterns}}{70}{subsection.17.2.2}
+\contentsline {subsection}{\numberline {17.2.3}Belief \#3: \textbf {That subjective experience either doesn't exist, or is unimportant because it is some sort of ambient or peripheral effect}}{72}{subsection.17.2.3}
+\contentsline {subsection}{\numberline {17.2.4}Belief \#4: \textbf {That what Darwin described in biology, or something like it, is in fact also the singular, superior description of all possible creativity and culture.}}{74}{subsection.17.2.4}
+\contentsline {subsection}{\numberline {17.2.5}Belief \#5: \textbf {That qualitative as well as quantitative aspects of information systems will be accelerated by Moore's Law}.}{77}{subsection.17.2.5}
+\contentsline {subsection}{\numberline {17.2.6}Belief \#6: \textbf {the coming cybernetic cataclysm}.}{79}{subsection.17.2.6}
+\contentsline {subsection}{\numberline {17.2.7}Conclusion}{82}{subsection.17.2.7}
+\contentsline {chapter}{\numberline {18}The Open Source Everything Manifesto (Robert David Steele, 2013)}{85}{chapter.18}
+\contentsline {chapter}{\numberline {19}The Critical Engineering Manifesto (CE Working Group, 2011-2014)}{89}{chapter.19}
+\contentsline {chapter}{\numberline {20}A Privacy Engineer\IeC {\textquoteright }s Manifesto \footnotemark [1] (2014)}{91}{chapter.20}
+\contentsline {section}{\numberline {20.1}Data about people is valuable in and of itself.}{91}{section.20.1}
+\contentsline {section}{\numberline {20.2}A privacy engineer needs more than just technical skills to protect and extend the value of data.}{91}{section.20.2}
+\contentsline {section}{\numberline {20.3}A privacy engineer draws from artistic creativity and expression to innovate and communicate.}{91}{section.20.3}
+\contentsline {section}{\numberline {20.4}A privacy engineer learns from, but disregards, the failures of the past.}{92}{section.20.4}
+\contentsline {section}{\numberline {20.5}We are all privacy engineers.}{92}{section.20.5}
+\contentsline {section}{\numberline {20.6}For the privacy engineer, with the mantra to innovate comes the mantra to do no harm.}{92}{section.20.6}
+\contentsline {section}{\numberline {20.7}Innovation and complexity need not be the adversary of privacy engineering, although failure of imagination may be.}{92}{section.20.7}
+\contentsline {section}{\numberline {20.8}The privacy engineer must be able to understand, calculate, mitigate, and accept risk.}{93}{section.20.8}
+\contentsline {section}{\numberline {20.9}Privacy engineering happens inside and outside of code.}{93}{section.20.9}
+\contentsline {section}{\numberline {20.10}A privacy engineer needs to differentiate between bad ideas and bad implementations.}{93}{section.20.10}
+\contentsline {chapter}{\numberline {21}New Clues (Searls and Weinberger, 2015)}{95}{chapter.21}
+\contentsline {section}{\numberline {21.1}Preface}{95}{section.21.1}
+\contentsline {subsection}{\numberline {21.1.1}Subject}{95}{subsection.21.1.1}
+\contentsline {subsection}{\numberline {21.1.2}Description}{95}{subsection.21.1.2}
+\contentsline {subsection}{\numberline {21.1.3}Creator}{95}{subsection.21.1.3}
+\contentsline {subsection}{\numberline {21.1.4}Source}{95}{subsection.21.1.4}
+\contentsline {subsection}{\numberline {21.1.5}Date}{95}{subsection.21.1.5}
+\contentsline {subsection}{\numberline {21.1.6}Rights}{96}{subsection.21.1.6}
+\contentsline {section}{\numberline {21.2}Hear, O Internet.}{96}{section.21.2}
+\contentsline {section}{\numberline {21.3}Once were we young in the Garden...}{97}{section.21.3}
+\contentsline {subsection}{\numberline {21.3.1}The Internet is us, connected.}{97}{subsection.21.3.1}
+\contentsline {subsection}{\numberline {21.3.2}The Internet is nothing and has no purpose.}{97}{subsection.21.3.2}
+\contentsline {subsection}{\numberline {21.3.3}The Net is not content.}{98}{subsection.21.3.3}
+\contentsline {subsection}{\numberline {21.3.4}The Net is not a medium.}{98}{subsection.21.3.4}
+\contentsline {subsection}{\numberline {21.3.5}The Web is a Wide World.}{98}{subsection.21.3.5}
+\contentsline {subsection}{\numberline {21.3.6}But oh how we have strayed, sisters and brothers...}{99}{subsection.21.3.6}
+\contentsline {subsection}{\numberline {21.3.7}``We agree about everything. I find you fascinating!''}{100}{subsection.21.3.7}
+\contentsline {subsection}{\numberline {21.3.8}Marketing still makes it harder to talk.}{100}{subsection.21.3.8}
+\contentsline {subsection}{\numberline {21.3.9}The Gitmo of the Net.}{101}{subsection.21.3.9}
+\contentsline {subsection}{\numberline {21.3.10}Gravity's great until it sucks us all into a black hole.}{101}{subsection.21.3.10}
+\contentsline {subsection}{\numberline {21.3.11}Privacy in an age of spies.}{102}{subsection.21.3.11}
+\contentsline {subsection}{\numberline {21.3.12}Privacy in an age of weasels.}{102}{subsection.21.3.12}
+\contentsline {subsection}{\numberline {21.3.13}To build and to plant}{102}{subsection.21.3.13}
+\contentsline {subsection}{\numberline {21.3.14}A pocket full of homilies.}{103}{subsection.21.3.14}
+\contentsline {subsection}{\numberline {21.3.15}Being together: the cause of and solution to every problem.}{104}{subsection.21.3.15}
+\contentsline {section}{\numberline {21.4}Afterword}{104}{section.21.4}
+\contentsline {section}{\numberline {21.5}About}{104}{section.21.5}
+\contentsline {subsection}{\numberline {21.5.1}CC0}{104}{subsection.21.5.1}
+\contentsline {chapter}{\numberline {22}Anti-Sec Manifesto}{105}{chapter.22}
+\contentsline {chapter}{\numberline {23}Happy Hacking 2015 Manifesto 2015)}{107}{chapter.23}
+\contentsline {section}{\numberline {23.1}Preface}{107}{section.23.1}
+\contentsline {subsection}{\numberline {23.1.1}Subject}{107}{subsection.23.1.1}
+\contentsline {subsection}{\numberline {23.1.2}Description}{107}{subsection.23.1.2}
+\contentsline {subsection}{\numberline {23.1.3}Creator}{107}{subsection.23.1.3}
+\contentsline {subsection}{\numberline {23.1.4}Source}{107}{subsection.23.1.4}
+\contentsline {subsection}{\numberline {23.1.5}Date}{107}{subsection.23.1.5}
+\contentsline {section}{\numberline {23.2}Body}{108}{section.23.2}
+\contentsline {chapter}{\numberline {24}\textless {}THE::CYBER.COM/MUNIST::MANIFESTO\textgreater {} (Richard Barbrook)}{111}{chapter.24}
+\contentsline {section}{\numberline {24.1}Preface}{111}{section.24.1}
+\contentsline {subsection}{\numberline {24.1.1}Subject}{111}{subsection.24.1.1}
+\contentsline {subsection}{\numberline {24.1.2}Description}{111}{subsection.24.1.2}
+\contentsline {subsection}{\numberline {24.1.3}Creator}{111}{subsection.24.1.3}
+\contentsline {subsection}{\numberline {24.1.4}Source}{111}{subsection.24.1.4}
+\contentsline {subsection}{\numberline {24.1.5}Publisher}{111}{subsection.24.1.5}
+\contentsline {section}{\numberline {24.2}Body}{112}{section.24.2}
+\contentsline {chapter}{\numberline {25}Civil Disobedience (Henry David Thoreau, 1849)}{115}{chapter.25}
+\contentsline {chapter}{\numberline {26}The Underground Myth (Published in Phrack)}{129}{chapter.26}
+\contentsline {section}{\numberline {26.1}--Phrack Inc.--}{129}{section.26.1}
+\contentsline {subsection}{\numberline {26.1.1}Hacker's Myth}{129}{subsection.26.1.1}
+\contentsline {subsection}{\numberline {26.1.2}The Security Industry}{130}{subsection.26.1.2}
+\contentsline {subsection}{\numberline {26.1.3}Black Hat, Two Faces}{131}{subsection.26.1.3}
+\contentsline {subsection}{\numberline {26.1.4}Technology}{132}{subsection.26.1.4}
+\contentsline {subsection}{\numberline {26.1.5}Criminals}{132}{subsection.26.1.5}
+\contentsline {subsection}{\numberline {26.1.6}Forgotten Youth}{133}{subsection.26.1.6}
+\contentsline {subsection}{\numberline {26.1.7}The Forward Link}{134}{subsection.26.1.7}
+\contentsline {chapter}{\numberline {27}A Hacker Manifesto {[}Version 4.0{]} (McKenzie Wark)}{137}{chapter.27}
+\contentsline {section}{\numberline {27.1}Manifestation}{137}{section.27.1}
+\contentsline {section}{\numberline {27.2}Abstraction}{138}{section.27.2}
+\contentsline {section}{\numberline {27.3}Production}{139}{section.27.3}
+\contentsline {section}{\numberline {27.4}Class}{139}{section.27.4}
+\contentsline {section}{\numberline {27.5}Property}{141}{section.27.5}
+\contentsline {section}{\numberline {27.6}Vector}{142}{section.27.6}
+\contentsline {section}{\numberline {27.7}Education}{143}{section.27.7}
+\contentsline {section}{\numberline {27.8}Hacking}{144}{section.27.8}
+\contentsline {section}{\numberline {27.9}Information}{145}{section.27.9}
+\contentsline {section}{\numberline {27.10}Representation}{146}{section.27.10}
+\contentsline {section}{\numberline {27.11}Revolt}{148}{section.27.11}
+\contentsline {chapter}{\numberline {28}Additional Resources}{151}{chapter.28}
+\contentsline {chapter}{\numberline {29}Resources}{153}{chapter.29}
+\contentsline {chapter}{Index}{155}{section*.3}
